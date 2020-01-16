@@ -1,0 +1,133 @@
+
+.large{
+    background-image: url(../../assets/DesktopBanner@2x.jpg);
+    background-repeat:no-repeat;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+li a {
+    color: white;
+  }
+
+  .xyz{
+    width: 100%;
+    }
+li img{
+  padding-left: 20px;
+}
+
+.navbar-toggler{
+  background-color: black;
+  display: block;
+}
+
+.navbar-toggler:hover{
+  background-color: black;
+  border: 1px solid black;
+}
+.menuitems{
+ color: #818181;
+ font-size: 40px;
+
+}
+.menuitems span{
+  margin-left: 20px;
+}
+.menuitems a:hover{
+  color: white;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  text-align:center;
+}
+
+  #btn{
+      border: 2px solid #FFC500;
+      background-color: black;
+      color: white;
+    }
+
+ #btn:hover {
+      background: #FFC500;
+      color: black !important;
+    }
+  li a:hover{
+    border-bottom: 2px solid #FFC500;
+    color: white;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.5rem;
+    padding-left: .5rem;
+}
+  
+  .grid{
+      background-image: url(../../assets/Grid.svg);
+      background-repeat:no-repeat;
+      margin-top: 10%;
+      margin-left:20%;
+      position: relative;
+      height: 600px;
+  }
+
+  .grid .heading{
+      color: white;
+      font-size: 70px;
+      margin-left: -80px;
+    
+  }
+  .grid p{
+    margin-left: -80px;  
+    color: white;
+    margin-top: 20px; 
+  }
+  .grid1{
+    margin-left: 600px;
+    height: 420px;
+    margin-top: -50% !important;
+}
+   p{
+    color: white;
+     margin-top: 200px;
+    margin-left: 200px;
+    font-family:  Florencesans;
+  }
+  #paraTwo{
+    margin-top: 5%;
+  }
+.arrow{
+  
+  border-bottom: 2px solid #FFC500;
+}
+
+.footerOne{
+  margin-top: 95%;
+}
+
+.footerTwo{
+  margin-top: 95%;
+}
+
+strong span{
+  border-bottom: 2px solid #FFC500;
+}
+
+h1 span{
+  border-bottom: 2px solid #FFC500;
+}
+.more{
+  margin-top: 100px !important;
+}
+
+
+
